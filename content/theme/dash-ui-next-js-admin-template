@@ -1,0 +1,29 @@
+---
+title: "Dash UI - Free Next.js Admin Dashboard Template"
+github: https://github.com/codescandy/dashui-free-nextjs-admin-template
+demo: https://dashui.codescandy.com/next-js-admin-dashboard-template.html
+author: codescandy
+date: 2023-05-11
+ssg:
+  - NextJs
+cms:
+  - No CMS
+css:
+  - Bootstrap 
+archetype:
+  - Blog
+  - Portfolio
+description: The next.js admin dashboard template is built with the Next.js and React framework. Jumpstart your web app development process with our next.js template.
+---
+
+# A simple starter kit for Admin Template
+
+This theme is a lightweight starter kit. It also gives you a well organised starting point to extend it for yourself.
+
+## Features
+
+* Over 30+ components 
+* Developer Friendly  
+* Eye Catching Design  
+* Simple to deploy
+* Well documented
